@@ -1,0 +1,10 @@
+#tabla {
+    border: 2px solid black;
+    border-collapse: collapse;
+    width: 500px;
+}
+
+.box {
+    padding-left: 5px;
+    border: 2px solid black;
+}
